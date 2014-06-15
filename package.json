@@ -1,9 +1,27 @@
 {
   "name": "rccc",
+  "version": "0.0.2",
   "description": "Revista Cinematografica | Cartelera Cinematografica | Web scraping",
+  "keywords": [
+    "cine",
+    "cartelera",
+    "nicaragua"
+  ],
   "dependencies": {
     "cheerio": "^0.17.0",
     "iconv": "^2.1.4",
     "request": "^2.36.0"
+  },
+  "directories": {
+    "lib": "./lib/rccc"
+  },
+  "main": "./index.js",
+  "bugs": {
+    "url": "https://github.com/paulomcnally/node-rccc/issues/new",
+    "email": "paulomcnally@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paulomcnally/node-rccc.git"
   }
 }
