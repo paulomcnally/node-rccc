@@ -1,6 +1,6 @@
 {
   "name": "rccc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Revista Cinematografica | Cartelera Cinematografica | Web scraping",
   "keywords": [
     "cine",
@@ -9,7 +9,6 @@
   ],
   "dependencies": {
     "cheerio": "^0.17.0",
-    "iconv": "^2.1.4",
     "request": "^2.36.0"
   },
   "directories": {
